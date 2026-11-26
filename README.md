@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/flipplay-code-rain.svg" alt="Latar animasi aliran kode FlipPlay dengan area tengah yang bersih" width="100%">
+</p>
+
+<p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=egg&color=0:0b1020,45:312e81,100:06b6d4&height=240&section=header&text=FlipPlay&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=MEDIA%20COLLECTION%20API&descSize=18&descAlignY=65&animation=twinkling&stroke=67e8f9&strokeWidth=1"
     alt="FlipPlay - animated 3D style banner"
