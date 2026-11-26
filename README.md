@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/flipplay-code-rain.svg" alt="FlipPlay Media Collection API banner with animated cyber code streams" width="100%">
+  <img src="./assets/flipplay-code-rain.svg" alt="FlipPlay logo over an animated code-rain background and blue-purple canopy" width="100%">
 </p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
