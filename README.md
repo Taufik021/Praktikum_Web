@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=egg&color=0:0b1020,45:312e81,100:06b6d4&height=240&section=header&text=FlipPlay&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=MEDIA%20COLLECTION%20API&descSize=18&descAlignY=65&animation=twinkling&stroke=67e8f9&strokeWidth=1"
+    alt="FlipPlay - animated 3D style banner"
+    width="100%"
+  >
+</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
